@@ -13,11 +13,11 @@
 - CRINGE: Powerful Method Target Maybe die from Cringe
 # Installation
 -Please use spoofed server for the best experience.
--'https://github.com/giaquy208/F-Toolv1.git'
--'cd F-Toolv1'
--'sh install.sh or apt -y install screen git nodejs'
--Install CentOS
--'cd F-Tool; sh installCentOS.sh'
+- 'https://github.com/giaquy208/F-Toolv1.git'
+- 'cd F-Toolv1'
+- 'sh install.sh or apt -y install screen git nodejs'
+- Install CentOS
+- 'cd F-Tool; sh installCentOS.sh'
 # contact Dev 
 - FB -- Istana Kerajaan
 -  ╔════════╗
