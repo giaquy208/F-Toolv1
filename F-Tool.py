@@ -2,7 +2,7 @@
 
 """
 	 handsome list:
-		NguyenDangTrinh ~ NĐT ~ DevTrinh ~ DvlpNguyenDangTrinh ~ TrinhIT ~ DangTrinhIT 
+		DinhGiaQuy ~ DGQ ~ DevQuy ~ DvlpDinhGiaQuy ~ QuyIT ~ GiaQuyIT 
 
 """
 from shutil import which
